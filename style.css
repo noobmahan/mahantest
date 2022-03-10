@@ -2,3 +2,7 @@ img {
 	width: 200px;
 	margin: 10px;
 }
+
+img:hover {
+	box-shadow: 0 0 10px red;
+}
