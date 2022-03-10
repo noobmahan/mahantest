@@ -3,6 +3,7 @@ html {
 }
 
 img {
+	box-shadow: 0 0 10px #000;
 	width: 200px;
 	margin: 10px;
 	border-radius: 10px;
